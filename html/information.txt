@@ -1,0 +1,20 @@
+#Links and hyperlinks
+Link refers to the web address (URL) of a resource, such as a website or file.  It is a plain, 
+static reference to a location on the internet. For example, 
+typing https://www.google.com into a browser is using a link. 
+Hyperlink is a clickable element—often text, image, or button—embedded within a document or
+ webpage that directs users to another resource when activated.
+
+#Forms and input
+just read forms_n_input.html
+
+#audio and videos in html
+just read forms_n_input.html
+pretty much self explanatory
+
+#semantical html
+https://www.w3schools.com/html/html5_semantic_elements.asp 
+seemed more theroratical   
+
+#typography
+see typography.html...pretty much self explanatory

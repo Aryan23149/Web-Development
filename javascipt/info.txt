@@ -1,0 +1,3 @@
+Javascript is Programming language crucial for web dev
+ I then made index.html to be viewed on live server using a browser....see where did we wrote the scipt tag and what is inside of it..it shall run js on browser
+ then we shifted source of js to some other file where we shall be writing our javascript
